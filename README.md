@@ -37,6 +37,70 @@ The MindMate AI Therapist Mobile Application uses several APIs to function, incl
 
 We welcome contributions from anyone interested in improving the MindMate AI Therapist Mobile Application. If you have ideas for new features or improvements, please open an issue or pull request on this repository.
 
+## File Structure 
+
+```
+mindmate/
+├── src/
+│   ├── api/
+│   │   ├── did_api.py
+│   │   ├── therapist_api.py
+│   │   └── user_api.py
+│   ├── models/
+│   │   ├── user.py
+│   │   └── therapist.py
+│   ├── services/
+│   │   ├── auth_service.py
+│   │   ├── payment_service.py
+│   │   ├── therapist_service.py
+│   │   └── user_service.py
+│   ├── utils/
+│   │   ├── animation.py
+│   │   ├── data_validation.py
+│   │   ├── error_handling.py
+│   │   ├── logger.py
+│   │   └── notifications.py
+│   ├── views/
+│   │   ├── home_view.py
+│   │   ├── payment_view.py
+│   │   ├── therapist_view.py
+│   │   └── user_view.py
+│   ├── app.py
+│   ├── config.py
+│   ├── constants.py
+│   ├── database.py
+│   └── __init__.py
+├── tests/
+│   ├── api_tests/
+│   │   ├── did_api_test.py
+│   │   ├── therapist_api_test.py
+│   │   └── user_api_test.py
+│   ├── services_tests/
+│   │   ├── auth_service_test.py
+│   │   ├── payment_service_test.py
+│   │   ├── therapist_service_test.py
+│   │   └── user_service_test.py
+│   ├── utils_tests/
+│   │   ├── animation_test.py
+│   │   ├── data_validation_test.py
+│   │   ├── error_handling_test.py
+│   │   ├── logger_test.py
+│   │   └── notifications_test.py
+│   ├── views_tests/
+│   │   ├── home_view_test.py
+│   │   ├── payment_view_test.py
+│   │   ├── therapist_view_test.py
+│   │   └── user_view_test.py
+│   ├── __init__.py
+│   └── conftest.py
+├── .gitignore
+├── LICENSE
+├── README.md
+├── requirements.txt
+└── setup.py
+`````
+
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
