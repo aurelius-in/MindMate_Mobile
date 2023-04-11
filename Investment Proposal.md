@@ -1,10 +1,13 @@
 ### Financial Projections
 We project the following financials for the first three years of operations:
 
-Year	Revenue	Net Income
-1	| $1M |	$250K  |
-2	| $3M	| $750K  |
-3	| $5M	| $1.25M |
+Financial Projections
+
+| Year | Revenue | Net Income |
+| ---- | ------- | ---------- |
+| 1    | $1M     | $250K      |
+| 2    | $3M     | $750K      |
+| 3    | $5M     | $1.25M     |
 
 We anticipate the initial investment of $3M will be sufficient to fund operations for the first three years.
 
