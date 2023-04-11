@@ -1,4 +1,4 @@
-# Investment Proposal for #MindMate Mobile
+# MindMate Mobile Investment Proposal 
 
 ## Executive Summary
 
