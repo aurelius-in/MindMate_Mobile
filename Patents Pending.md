@@ -1,4 +1,4 @@
-#MindMate Patents Pending
+# MindMate Patents Pending
 
 1. MindMate AI Therapy User Interface Design - Application No. US20230002345A1
 2. MindMate AI Therapy Natural Language Processing Techniques - Application No. US20230002346A1
